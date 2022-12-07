@@ -7,5 +7,6 @@ def reverse(s):
         right -= 1
     return "".join(slist)
 
+#convert the string to list and using two pointers to reverse the list
 
-print(reverse("hello"))
+print(reverse(input()))
