@@ -3,5 +3,6 @@ def reverse(s):
         return s
     return reverse(s[1:]) + s[0]
 
+#using recursion
 
-print(reverse("hello"))
+print(reverse(input()))
