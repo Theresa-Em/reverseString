@@ -1,7 +1,7 @@
 # reverseString
 UtopiaCompressionAssessment-different methods to reverse a string
 
-##used both Python and C++ to realize the string reverse function
+## used both Python and C++ to realize the string reverse function
 ---
 ### inPython contains the python files as scripts
 Five methods can be run differently using "python3 reverse#.py", each can take a string as input and print the reversed string out.
