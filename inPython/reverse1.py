@@ -5,5 +5,10 @@ def reverse(s):
     return rs 
 
 
-print(reverse(input()))
+#print out a new string, using space O(n), time O(n)
+
+#create an entry for the function
+if __name__ == "__main__":
+    print(reverse(input()))
+
 
