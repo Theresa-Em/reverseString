@@ -8,5 +8,6 @@ def reverse(s):
         outs += tmpstack.pop()
     return outs
 
+#use stack to store the input string and pop the character out to the output string
 
-print(reverse("hello"))
+print(reverse(input()))
